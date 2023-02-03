@@ -47,4 +47,6 @@ footer {
   border: none;
   text-align: center;
   margin: auto;
+  display: block;
+  margin-top: 50px;
 }
