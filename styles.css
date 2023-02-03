@@ -45,4 +45,6 @@ footer {
   font-size: 1rem;
   background-color: #4ECCA3;
   border: none;
+  text-align: center;
+  margin: auto;
 }
